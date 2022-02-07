@@ -1,0 +1,9 @@
+{
+    "name": "MacosBigSur",
+    "gtkTheme": "WhiteSur-dark",
+    "iconTheme": "WhiteSur-dark",
+    "cursorTheme": "Adwaita",
+    "shell": "bash",
+    "desktopEnvironment": "xfce",
+    "windowManager": "xfwm4"
+}
